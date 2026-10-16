@@ -1,10 +1,10 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,50:06b6d4,100:6366f1&height=220&section=header&text=Nguy%E1%BB%85n%20V%C4%83n%20V%C6%B0%E1%BB%A3ng&fontSize=42&fontAlignY=38&animation=twinkling&desc=Fullstack%20Software%20Engineer%20%7C%20Enterprise%20%26%20Cloud%20Architect&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,35:06b6d4,70:6366f1,100:a855f7&height=230&section=header&text=Nguy%E1%BB%85n%20V%C4%83n%20V%C6%B0%E1%BB%A3ng&fontSize=44&fontAlignY=38&animation=twinkling&desc=Enterprise%20System%20Architect%20%E2%80%A2%20Fullstack%20Software%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/vuongnv1206">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=640&height=85&lines=Fullstack+Engineer+%7C+.NET+Core+%26+Microservices;Enterprise+Solutions+(Clean+Architecture+%26+DDD);Microfrontend+Architect+(Angular+%26+Single-Spa);Continuous+Improvement+%26+Clean+Code+Practices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=660&height=85&lines=Fullstack+Engineer+%7C+.NET+Core+%26+Microservices;Enterprise+Architect+(Clean+Architecture+%26+DDD);Microfrontend+Architect+(Angular+%26+Single-Spa);Continuous+Improvement+%26+Clean+Code+Practices" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,24 +19,26 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-name: Nguyễn Văn Vượng
-role: Fullstack Software Engineer / System Architect
-location: Hanoi, Vietnam
-philosophy: "Don't Repeat Yourself (DRY) & Keep It Simple, Stupid (KISS)"
-specialties:
-  - Enterprise Backend (.NET Core 8, Clean Architecture, DDD, CQRS)
-  - Modern Frontend (Angular, Vue.js, React, Single-Spa Micro-frontends)
-  - Scalable Microservices, Event-Driven Architecture, Caching & Cloud
-```
-
-- 🔭 **Current Focus:** Architecting robust enterprise systems, microservice backends, and micro-frontend client ecosystems.
-- 💡 **Passion:** Designing resilient architectures, clean database schemas, and developer-friendly abstractions.
-- ⚡ **Fun Fact:** When in doubt, refactor and write tests. Always continuous delivery.
+<table>
+  <tr>
+    <td width="60%">
+      <p>👋 <b>Welcome! I'm Nguyễn Văn Vượng</b>, an Enterprise Fullstack Software Engineer & System Architect specializing in distributed systems, clean backend architectures, and high-performance frontend micro-applications.</p>
+      <ul>
+        <li>🏗️ <b>Architectural Core:</b> Clean Architecture, Domain-Driven Design (DDD), CQRS, Event-Driven Architecture, Unit of Work & Repository patterns.</li>
+        <li>⚡ <b>Specialties:</b> Scalable .NET Core microservices, high-traffic APIs, caching pipelines, and modern micro-frontends (Single-spa / Angular / Vue).</li>
+        <li>💡 <b>Motto:</b> <i>"Don't Repeat Yourself (DRY) & Keep It Simple, Stupid (KISS)"</i>.</li>
+        <li>🎯 <b>Goal:</b> Delivering enterprise-grade software engineered for longevity, maintainability, and exceptional developer experience.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Interactive Tech Stack
+### 🛠️ Interactive Tech Stack & Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -119,6 +121,12 @@ specialties:
   <img src="https://streak-stats.demolab.com/?user=vuongnv1206&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" alt="Programming Quote" />
+</div>
+
 ---
 
 ### 🌟 Featured Repositories
@@ -144,6 +152,6 @@ specialties:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,50:06b6d4,100:6366f1&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:10b981,35:06b6d4,70:6366f1,100:a855f7&height=100&section=footer" width="100%" alt="Footer Wave" />
   <sub>⭐ <i>"Clean code always looks like it was written by someone who cares."</i> — Robert C. Martin ⭐</sub>
 </div>
